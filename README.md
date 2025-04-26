@@ -62,11 +62,11 @@ Island Bitcoin is a network of entities united by a shared vision:
 
 ---
 
-## Repository Structure
+## Structure
 
 - `/docs` – Project documentation, proposals, meeting notes
-- `/events` – Event materials, photos, and summaries
-- `/rfp` – Open Proposals for development bounties, marketing and branding, graphics, digital campaigns and other initiatives
+- `islandbitcoin-community/events` – Event materials, photos, and summaries
+- `islandbitcoin-community/rfp` – Open Proposals for development bounties, marketing and branding, graphics, digital campaigns and other initiatives
 
 ---
 
