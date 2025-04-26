@@ -1,5 +1,5 @@
 # Island Bitcoin
-
+https://github.com/islandbitcoin/asset-library/blob/main/Illustration/JPG/NoGood_IslandBitcoin_Purple.jpg
 Welcome to the Island Bitcoin – A Caribbean hub for Bitcoin education, innovation, and real-world adoption.
 
 Island Bitcoin is a global, grassroots movement originating in Jamaica, dedicated to empowering individuals and businesses through open-source financial technology, community-driven events, and collaborative software development.
