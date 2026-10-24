@@ -80,10 +80,3 @@ Island Bitcoin is a network of entities united by a shared vision:
 ## License
 
 This repository is open source under the [MIT License](LICENSE).
-
----
-
-One Love. One Caribbean.
-
-_Island Bitcoin – Powered by Community, Built on Bitcoin._
-
