@@ -31,7 +31,3 @@ To provide clear, transparent guidelines for engaging with Island Bitcoin’s pr
 ## Contact
 
 For all RFP-related questions, please email: [info@islandbitcoin.com](mailto:info@islandbitcoin.com)
-
----
-
-Thank you for your interest in building the future of Bitcoin in the Caribbean with Island Bitcoin!
